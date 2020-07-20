@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 **🌱 I’m currently learning Front-end Development and Deep Learning**
 <br>
 <br>
-**✨ Tech stacks currently using ** <br>
+**✨ Tech stacks currently using** <br>
 <br>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
@@ -30,11 +30,10 @@ Here are some ideas to get you started:
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
-
+<br>
+<br>
 **💬 Ask me about anything, I'll be happy to help!** <br>
-<br>
 **💬 My inbox is always open, Contact me**
-<br>
 <br>
   <a href="https://in.linkedin.com/in/piyushp7pravin">
     <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
