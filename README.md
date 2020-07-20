@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 **💬 My inbox is always open, Contact me**
 <br>
 <br> 
-  &nsbp;  <a href="https://in.linkedin.com/in/piyushp7pravin">
+  <p>&nsbp;  <a href="https://in.linkedin.com/in/piyushp7pravin">
    <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
   <a href="mailto:piyushpravin1998@gmail.com">
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/piyushp7pravin/">
     <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
   </a>
-  
+  </p>
 <br>
 
 
