@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 **💬 Ask me about anything, I'll be happy to help!** <br>
 **💬 My inbox is always open, Contact me**
 <br>
-<br> &nsbp  
+<br> 
+  <p>&nbsp  
   <a href="https://in.linkedin.com/in/piyushp7pravin">
    <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
@@ -49,6 +50,7 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/piyushp7pravin/">
     <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
   </a>
+  </p>
   
 <br>
 
