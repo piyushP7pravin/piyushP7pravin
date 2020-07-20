@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 **✨ Tech stacks currently using** <br>
+<br>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
 <code><a href="https://pytorch.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
@@ -36,6 +37,7 @@ Here are some ideas to get you started:
 **💬 My inbox is always open, Contact me**
 <br>
 <br>
+<pre>    </pre>
   <a href="https://in.linkedin.com/in/piyushp7pravin">
     <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
