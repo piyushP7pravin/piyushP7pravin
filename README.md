@@ -50,5 +50,6 @@ Here are some ideas to get you started:
     <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
   </a>
 <br>
-
+<br>
+![Visitor Count](https://profile-counter.glitch.me/{piyushP7pravin}/count.svg)
 
