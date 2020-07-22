@@ -51,5 +51,7 @@ Here are some ideas to get you started:
   </a>
 <br>
 <br>
+**Visitor Count :**
+<br>
 ![Visitor Count](https://profile-counter.glitch.me/{piyushP7pravin}/count.svg)
 
