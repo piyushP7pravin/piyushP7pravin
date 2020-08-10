@@ -1,11 +1,7 @@
 
 <h1> Hi there..! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=piyushP7pravin alt=piyushP7pravin/></p>
-<!--
-**piyushP7pravin/piyushP7pravin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=piyushP7pravin alt=piyushP7pravin> </p>
 
-Here are some ideas to get you started:
--->
 **🔭 I’m currently working on my <a href="https://www.piyushp7pravin.tech/"><b>Portfolio Website</b> </a> and Twitter Sentiment Analysis Project**<br>
 **🌱 I’m currently learning Front-end Development and Deep Learning**
 <br>
@@ -51,7 +47,10 @@ Here are some ideas to get you started:
   </a>
 <br>
 <br>
+<!--
 **Visitor Count :**
 <br>
-<!--![Visitor Count](https://profile-counter.glitch.me/{piyushP7pravin}/count.svg) -->
+
+![Visitor Count](https://profile-counter.glitch.me/{piyushP7pravin}/count.svg) 
+-->
 
