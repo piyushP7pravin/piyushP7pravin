@@ -45,6 +45,9 @@
   <a href="https://www.instagram.com/piyushp7pravin/">
     <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
   </a>
+  <a href="https://dev.to/piyushp7pravin">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Piyush Pravin's DEV Profile" height="30" width="30">
+</a>
 
 
 <!--
