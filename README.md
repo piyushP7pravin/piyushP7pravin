@@ -2,7 +2,7 @@
 <h1> Hi there..! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=piyushP7pravin alt=piyushP7pravin> </p>
 
-**🔭 I’m currently working on my <a href="https://www.piyushp7pravin.tech/"><b>Portfolio Website</b> </a> and Twitter Sentiment Analysis Project**<br>
+**🔭 I’m currently working on my <a href="https://www.piyushp7pravin.tech/"><b>Portfolio Website</b> </a> and Image Classfication Project**<br>
 **🌱 I’m currently learning Front-end Development and Deep Learning**
 <br>
 <br>
