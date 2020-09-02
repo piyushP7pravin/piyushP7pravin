@@ -33,20 +33,20 @@
 **💬 My inbox is always open, Contact me**
 <br>
 <br> 
-  <a href="https://in.linkedin.com/in/piyushp7pravin">
-   <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" target="_blank"/>
+  <a href="https://in.linkedin.com/in/piyushp7pravin" target="_blank">
+   <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
-  <a href="mailto:piyushpravin1998@gmail.com">
-    <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" target="_blank"/>
+  <a href="mailto:piyushpravin1998@gmail.com" target="_blank">
+    <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
   </a>
-  <a href="https://twitter.com/PiyushP7pravin">
-    <img align="left" alt="Piyush Pravin | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" target="_blank"/>
+  <a href="https://twitter.com/PiyushP7pravin" target="_blank">
+    <img align="left" alt="Piyush Pravin | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
   </a>
-  <a href="https://www.instagram.com/piyushp7pravin/">
-    <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" target="_blank" />
+  <a href="https://www.instagram.com/piyushp7pravin/" target="_blank">
+    <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg"  />
   </a>
-  <a href="https://dev.to/piyushp7pravin">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" target="_blank" alt="Piyush Pravin's DEV Profile" height="30" width="30">
+  <a href="https://dev.to/piyushp7pravin" target="_blank">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Piyush Pravin's DEV Profile" height="30" width="30">
 </a>
 
 
