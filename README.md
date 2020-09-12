@@ -3,7 +3,7 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=piyushP7pravin alt=piyushP7pravin> </p>
 
 **🔭 I’m currently working on my <a href="https://www.piyushp7pravin.tech/"><b>Portfolio Website</b> </a> and Image Classfication Project**<br>
-**🌱 I’m currently learning Front-end Development and Deep Learning**
+**🌱 I’m currently learning Deep Learning**
 <br>
 <br>
 **✨ Tech stacks currently using** <br>
