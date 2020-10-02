@@ -28,6 +28,8 @@
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
 <br>
 <br>
+![My Github stats](https://github-readme-stats.vercel.app/api?username=piyushP7pravin&show_icons=true&hide_border=true)
+<br>
 <br>
 **💬 Ask me about anything, I'll be happy to help!** <br>
 **💬 My inbox is always open, Contact me**
