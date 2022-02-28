@@ -29,20 +29,18 @@
 <br>
 <br> 
   <a href="https://www.linkedin.com/in/gayatri-nimbolkar-8b8891212/" target="_blank">
-   <img align="left" alt="Gayatri Nimbolkar | Linkedin" width="24px" src="https://www.linkedin.com/in/gayatri-nimbolkar-8b8891212/" />
+   <img align="left" alt="Gayatri Nimbolkar | Linkedin" width="24px" src="https://github.com/GayatriNimbolkar/Gayatri-Nimbolkar/blob/master/Linkedin.svg" />
   </a>
   <a href="mailto:isha.gayatrinimbolkar2952@gmail.com" target="_blank">
-    <img align="left" alt="Gayatri Nimbolkar | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
+    <img align="left" alt="Gayatri Nimbolkar | Gmail" width="26px" src="https://github.com/GayatriNimbolkar/Gayatri-Nimbolkar/blob/master/Gmail.svg
+" />
   </a>
   <a href="https://twitter.com/PiyushP7pravin" target="_blank">
-    <img align="left" alt="Piyush Pravin | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
+    <img align="left" alt="Piyush Pravin | Twitter" width="26px" src="https://github.com/GayatriNimbolkar/Gayatri-Nimbolkar/blob/master/Twitter.svg" />
   </a>
-  <a href="https://www.instagram.com/piyushp7pravin/" target="_blank">
-    <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg"  />
+  <a href="https://www.instagram.com/isha_gayatrinimbolkar/" target="_blank">
+    <img align="left" alt="Gayatri Nimbolkar | Instagram" width="24px" https://github.com/GayatriNimbolkar/Gayatri-Nimbolkar/blob/master/Instagram.svg"  />
   </a>
-  <a href="https://dev.to/piyushp7pravin" target="_blank">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Piyush Pravin's DEV Profile" height="30" width="30">
-</a>
 
 
 <!--
