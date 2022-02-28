@@ -39,7 +39,7 @@
     <img align="left" alt="Piyush Pravin | Twitter" width="26px" src="https://github.com/GayatriNimbolkar/Gayatri-Nimbolkar/blob/master/Twitter.svg" />
   </a>
   <a href="https://www.instagram.com/isha_gayatrinimbolkar/" target="_blank">
-    <img align="left" alt="Gayatri Nimbolkar | Instagram" width="24px" https://github.com/GayatriNimbolkar/Gayatri-Nimbolkar/blob/master/Instagram.svg"  />
+    <img align="left" alt="Gayatri Nimbolkar | Instagram" width="24px" src="https://github.com/GayatriNimbolkar/Gayatri-Nimbolkar/blob/master/Instagram.svg"  />
   </a>
 
 
