@@ -1,6 +1,6 @@
 
-<h1> Hi there..! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=piyushP7pravin alt=piyushP7pravin> </p>
+<h1> Hi there..! <img src="https://github.com/GayatriNimbolkar/Gayatri-Nimbolkar/blob/master/wave.gif" width="29px"> </h1>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=Gayatri Nimbolkar alt=Gayatri Nimbolkar> </p>
 
 **🔭 I’m currently exploring new languages**
 **🌱 I would like to explore data science in future**
@@ -32,12 +32,9 @@
    <img align="left" alt="Gayatri Nimbolkar | Linkedin" width="24px" src="https://github.com/GayatriNimbolkar/Gayatri-Nimbolkar/blob/master/Linkedin.svg" />
   </a>
   <a href="mailto:isha.gayatrinimbolkar2952@gmail.com" target="_blank">
-    <img align="left" alt="Gayatri Nimbolkar | Gmail" width="26px" src="https://github.com/GayatriNimbolkar/Gayatri-Nimbolkar/blob/master/Gmail.svg
-" />
+    <img align="left" alt="Gayatri Nimbolkar | Gmail" width="26px" src="https://github.com/GayatriNimbolkar/Gayatri-Nimbolkar/blob/master/Gmail.svg" />
   </a>
-  <a href="https://twitter.com/PiyushP7pravin" target="_blank">
-    <img align="left" alt="Piyush Pravin | Twitter" width="26px" src="https://github.com/GayatriNimbolkar/Gayatri-Nimbolkar/blob/master/Twitter.svg" />
-  </a>
+  
   <a href="https://www.instagram.com/isha_gayatrinimbolkar/" target="_blank">
     <img align="left" alt="Gayatri Nimbolkar | Instagram" width="24px" src="https://github.com/GayatriNimbolkar/Gayatri-Nimbolkar/blob/master/Instagram.svg"  />
   </a>
@@ -47,6 +44,6 @@
 **Visitor Count :**
 <br>
 
-![Visitor Count](https://profile-counter.glitch.me/{piyushP7pravin}/count.svg) 
+![Visitor Count](https://profile-counter.glitch.me/{GayatriNimbolkar}/count.svg) 
 -->
 
