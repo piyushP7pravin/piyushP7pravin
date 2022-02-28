@@ -3,7 +3,7 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Gayatri Nimbolkar alt=Gayatri Nimbolkar> </p>
 
 **🔭 I’m currently exploring new languages**
-**🌱 I would like to explore data science in future**
+**🌱 I would like to explore data science in future!**
 <br>
 <br>
 **✨ Tech stacks currently using** <br>
